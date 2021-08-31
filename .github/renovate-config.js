@@ -7,7 +7,7 @@ module.exports = {
   "includePaths": [
     "distribution/**",
     "core/**",
-    "emoticons/**"
+    "emoticons/**",
     "plugins/**"
   ],
   "packageRules": [
