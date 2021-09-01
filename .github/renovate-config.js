@@ -7,12 +7,6 @@ module.exports = {
   "includeForks": true,
   "platform": "github",
   "repositories": ["i333055/Spark"],
-  "includePaths": [
-    "distribution/**",
-    "core/**",
-    "emoticons/**",
-    "plugins/**"
-  ],
   "packageRules": [
     {
       "matchUpdateTypes": ["major"],
