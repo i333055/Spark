@@ -7,10 +7,4 @@ module.exports = {
   "includeForks": true,
   "platform": "github",
   "repositories": ["i333055/Spark"],
-  "packageRules": [
-    {
-      "matchUpdateTypes": ["major"],
-      "dependencyDashboardApproval": true
-    }
-  ]
 };
