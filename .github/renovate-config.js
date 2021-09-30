@@ -6,5 +6,5 @@ module.exports = {
   "dryRun": false,
   "includeForks": true,
   "platform": "github",
-  "repositories": ["i333055/Spark"],
+  "repositories": ["i333055/Spark"]
 };
